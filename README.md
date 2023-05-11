@@ -1,2 +1,2 @@
-# KMU_Zsf
+# KMU Zusammenfassung
 Wrangling und Visualisierung von KMU Daten
