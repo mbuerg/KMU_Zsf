@@ -180,6 +180,14 @@ ggplot(data = tail(data_jahr_kat_aggr, -1),
                              paste(diff_1_rel, "%", sep = ""), ''))) +
   ggplot2_theme
 
+#ggsave(filename = "name.png",
+#       path = "~", 
+#       width = 1920, 
+#       height = 1080, 
+#       units = "px",
+#       device = 'png', 
+#       dpi = 300)
+
 # Momente für Wachstum:
 
 mean(data_jahr_kat_aggr$diff_1, na.rm = TRUE)
