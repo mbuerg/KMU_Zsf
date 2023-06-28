@@ -1,5 +1,6 @@
 # KMU Zusammenfassung
-Wrangling und Visualisierung von KMU Daten
+# Wrangling und Visualisierung von KMU Daten. Daten kommen vom Statistischen Bundesamt, GENESIS Datenbank
+# Datensatz id: 48121-0002
 
 ![anzahl_KMU](https://github.com/mbuerg/KMU_Zsf/assets/106337257/8760b6ce-74ee-487f-8ce2-80d31d85986a)
 

@@ -1,0 +1,9 @@
+/data
+
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/renv
